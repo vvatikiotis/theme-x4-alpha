@@ -65,6 +65,8 @@
 				<string>#556552</string>
 				<key>background</key>
 				<string>#556552</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>

@@ -46,7 +46,7 @@ are some of the VSCode settings I use.
   "editor.cursorStyle": "block",
   "editor.renderIndentGuides": true,
   "editor.rulers": [80],
-  "editor.fontFamily": "PragmataPro, onospace",
+  "editor.fontFamily": "PragmataPro, monospace",
   "editor.fontLigatures": false,
   "editor.fontSize": 13,
   "editor.lineHeight": 17,
