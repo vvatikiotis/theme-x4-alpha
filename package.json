@@ -1,31 +1,38 @@
 {
-  "name": "x4-alpha",
-  "displayName": "x4-alpha Theme",
-  "description": "x4-alpha theme loosely based from gerane x3-alpha",
-  "version": "1.0.0",
-  "publisher": "vvatikiotis",
-  "preview": true,
-  "license": "See Licence in LICENSE",
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "keywords": ["theme", "dark", "x3-alpha", "x4-alpha"],
-  "categories": ["Themes"],
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vvatikiotis/theme-x4-alpha.git"
-  },
-  "bugs": {
-    "url": "https://github.com/vvatikiotis/theme-x4-alpha/issues"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "x4-alpha",
-        "uiTheme": "vs-dark",
-        "path": "./themes/x4-alpha.tmTheme"
-      }
-    ]
-  }
+    "name": "x4-alpha",
+    "displayName": "x4-alpha Theme",
+    "description": "x4-alpha theme loosely based from gerane x3-alpha",
+    "version": "1.1.0",
+    "publisher": "vvatikiotis",
+    "preview": true,
+    "license": "See Licence in LICENSE",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "x3-alpha",
+        "x4-alpha"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vvatikiotis/theme-x4-alpha.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vvatikiotis/theme-x4-alpha/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "x4-alpha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/x4-alpha.tmTheme"
+            }
+        ]
+    }
 }
